@@ -1,0 +1,56 @@
+Diseño
+Cédula: 1
+Nombre: 1
+Apellido: 1
+Teléfono: 1
+Modalidad de Estudio: 1
+Cantidad de Asignaturas: 1
+Serial: 1
+Marca: 1
+Tamaño: 1.0
+Precio: 1.0
+Almacenamiento: 1 TB
+Peso: 1.0
+
+Ingenieria
+Cédula: 1
+Nombre: 1
+Apellido: 1
+Teléfono: 1
+Número de Semestre: 1
+Promedio Acumulado: 1.0
+Serial: 1
+Marca: 1
+Tamaño: 1.0
+Precio: 1.0
+Sistema Operativo: Windows 7
+Procesador: AMD Ryzen
+
+Ingenieria
+Cédula: 1
+Nombre: 1
+Apellido: 1
+Teléfono: 1
+Número de Semestre: 1
+Promedio Acumulado: 1.0
+Serial: 1
+Marca: 1
+Tamaño: 1.0
+Precio: 1.0
+Sistema Operativo: Windows 7
+Procesador: AMD Ryzen
+
+Ingenieria
+Cédula: 1
+Nombre: 1
+Apellido: 1
+Teléfono: 1
+Número de Semestre: 1
+Promedio Acumulado: 1.0
+Serial: 1
+Marca: 1
+Tamaño: 1.0
+Precio: 1.0
+Sistema Operativo: Windows 7
+Procesador: AMD Ryzen
+
