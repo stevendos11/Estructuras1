@@ -70,10 +70,11 @@ public class ModificarPrestamo {
     }
 
     // Método para solicitar un valor entero con validación
-    private static int solicitarEntero(String mensaje) {
+    private static int solicitarEntero(String mensaje, int valor) {
         while (true) {
             try {
-                return Integer.parseInt(JOptionPane.showInputDialog(mensaje));
+                valor = Integer.parseInt(JOptionPane.showInputDialog(mensaje));
+                return valor;
             } catch (NumberFormatException e) {
                 JOptionPane.showMessageDialog(null, "Dato erróneo. Por favor, ingrese un número entero.");
             }
@@ -81,10 +82,11 @@ public class ModificarPrestamo {
     }
 
     // Método para solicitar un valor flotante con validación
-    private static float solicitarFlotante(String mensaje) {
+    private static float solicitarFlotante(String mensaje, float valor) {
         while (true) {
             try {
-                return Float.parseFloat(JOptionPane.showInputDialog(mensaje));
+                valor =  Float.parseFloat(JOptionPane.showInputDialog(mensaje));
+                return valor;
             } catch (NumberFormatException e) {
                 JOptionPane.showMessageDialog(null, "Dato erróneo. Por favor, ingrese un número decimal.");
             }
